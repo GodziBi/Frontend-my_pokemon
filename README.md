@@ -10,5 +10,6 @@
 - $ npm start "start project"
 
 # Photo
-![Uploading Screen Shot 2024-03-28 at 23.29.07.png…]()
+<img width="1408" alt="Screen Shot 2024-03-28 at 23 29 07" src="https://github.com/GodziBi/Frontend-my_pokemon/assets/165312465/1d71a5f3-6312-494d-a74c-bea68906eec8">
+
 
